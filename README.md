@@ -17,8 +17,8 @@ Antes de começar, você precisará ter o seguinte instalado:
 1.  **Clone o Repositório:**
 
     ```bash
-    git clone [URL do seu repositório]
-    cd [nome do diretório do repositório]
+    git clone https://github.com/RafaelSchittini/projetoAlexaSD.git
+    cd projetoAlexaSD
     ```
 
 2.  **Criar um Ambiente Virtual:**
